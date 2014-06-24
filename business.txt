@@ -1,0 +1,17 @@
+# coding: utf8
+
+Oracle’s acquisition machine spun up again on Monday, as the software giant struck its biggest deal in five years. It agreed to buy Micros Systems, a maker of software for restaurants and hospitality providers, for $5.3 billion in cash.
+
+Under the terms of the deal, Oracle will pay $68 a share. That is approximately 18 percent above where Micros Systems’ shares were trading before Bloomberg News reported about a potential transaction last week.
+
+As one of the most acquisitive companies in the corporate world, Oracle has announced 11 takeovers in the last 16 months alone. But Micros represents its biggest takeover since its purchase of Sun Microsystems for about $7.4 billion in spring 2009.
+
+The Micros deal will give it control of a major provider of so-called point-of-sale systems like Internet-connected cash registers. Micros says its products are used on 330,000 sites in 180 countries.
+
+“Oracle has successfully helped customers across multiple industries harness the power of cloud, mobile, social, big data and the Internet of things to transform their businesses,” Mark Hurd, an Oracle president, said in a statement. “We anticipate delivering compelling advantages to companies within the hospitality and retail industries with the acquisition of Micros.”
+
+The announcement comes as Oracle is seeking to bolster its slowing earnings growth. The company reported a 4 percent year-on-year drop in profit in its most recent fiscal quarter last week, while revenue increased just 3 percent.
+
+Buying Micros Systems is expected to add to the company’s pro forma earnings immediately.
+
+The deal is expected to close by the end of the year.
